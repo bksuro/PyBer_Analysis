@@ -46,3 +46,10 @@ Further more additional requirements are added to the assignment to create a sum
 Based on the challenge results shown above it is clear that we need to add more drivers in Rural areas so more people would use PyBer services. However it is clear that in Urban areas there are more drivers and not all of them have rides, as opposed to Suburban and Rural areas, where each driver has on an average of more than 1 ride under their belt.
 
 ### Business Recommendations 
+Based on the analysis done, we have the following recommendations for decision makers at PyBer.
+ 1. Make your presence known in Rural areas by marketing PyBer services in Rural areas.
+   - Which results in more drivers joining and more users using PyBer services.
+ 2. Similarly market PyBer services in Urban areas for user acceptance.
+   - We have enough drivers in Urban areas and we need more users to use our services, so focus should be in getting more users to use our services.
+ 3. For Suburban areas focus sould be split with more on getting more users to use PyBer services, and then on getting more drivers to join PyBer.
+ 
