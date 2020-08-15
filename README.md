@@ -58,9 +58,9 @@ Based on the analysis done, we have the following recommendations for decision m
 
 ## Additional technical analysis
 
-!["Summary Dataframe"](./analysis/summary_dataframe_2.png "Summary Dataframe")
+!["to_datetime late"](./analysis/PyBer_fare_summary_2.png "to_datetime conversion after loc")
 
-!["Summary Dataframe"](./analysis/summary_dataframe.png "Summary Dataframe")
+!["to_datetime early"](./analysis/PyBer_fare_summary.png "to_datetime conversion before loc")
 
 
 The difference between the figures above is when 'pd.to_datetime' conversion is used on the index of the dataframe.
