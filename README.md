@@ -11,19 +11,20 @@ Analyze all the rideshare data from January to early May of 2019 and create a co
 
 ## Results
 
-!["Fig1"](./analysis/Fig1.png "Fig1")
+Raw data is plotted using bubble graph to get a visual idea of the data.
+!["Fig1"](./analysis/Fig1.png "Raw Data")
 
-!["Fig2"](./analysis/Fig2.png "Fig2")
+Ride count data by city type is shown using a box plot to show the variation between the three city types Rural, Suburban, and Urban.
+!["Fig2"](./analysis/Fig2.png "Ride count by city types")
 
-!["Fig3"](./analysis/Fig3.png "Fig3")
+Ride fare data by city types is shown below.
+!["Fig3"](./analysis/Fig3.png "Ride fare by city types")
 
-!["Fig4"](./analysis/Fig4.png "Fig4")
+Driver count data by city types is shown next.
+!["Fig4"](./analysis/Fig4.png "Driver count by city types")
 
-!["Fig5"](./analysis/Fig5.png "Fig5")
-
-!["Fig6"](./analysis/Fig6.png "Fig6")
-
-!["Fig7"](./analysis/Fig7.png "Fig7")
+Following three pie charts show % Totals of Fares, Rides, and Drivers by city types.
+!["Fig5"](./analysis/Fig5.png "%Total Fares")  !["Fig6"](./analysis/Fig6.png "%Total Rides")  !["Fig7"](./analysis/Fig7.png "%Total Drivers")
 
 
 ## Summary
