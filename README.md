@@ -53,3 +53,20 @@ Based on the analysis done, we have the following recommendations for decision m
    - We have enough drivers in Urban areas and we need more users to use our services, so focus should be in getting more users to use our services.
  3. For Suburban areas focus sould be split with more on getting more users to use PyBer services, and then on getting more drivers to join PyBer.
  
+
+
+
+## Additional technical analysis
+
+!["Summary Dataframe"](./analysis/summary_dataframe_2.png "Summary Dataframe")
+
+!["Summary Dataframe"](./analysis/summary_dataframe.png "Summary Dataframe")
+
+
+The difference between the figures above is when 'pd.to_datetime' conversion is used on the index of the dataframe.
+
+First image has the index as objects when we use loc to create the new dataframe, and the sorting is like this - 4/28/2019, 4/29/2019, and 4/2/2019 before loc is used. This created a big dip in the image in April.
+
+However using to_datetime conversion before using the loc to create the new dataframe created the output figure different and closer to the one shown on the challenge deliverables list.
+
+I am interested to find an explanation.
