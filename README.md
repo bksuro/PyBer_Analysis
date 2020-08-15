@@ -43,4 +43,6 @@ Further more additional requirements are added to the assignment to create a sum
 
 ## Challenge Summary
 
+Based on the challenge results shown above it is clear that we need to add more drivers in Rural areas so more people would use PyBer services. However it is clear that in Urban areas there are more drivers and not all of them have rides, as opposed to Suburban and Rural areas, where each driver has on an average of more than 1 ride under their belt.
+
 ### Business Recommendations 
