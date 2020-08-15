@@ -13,17 +13,17 @@ Analyze all the rideshare data from January to early May of 2019 and create a co
 
 !["Fig1"](./analysis/Fig1.png "Fig1")
 
-!["Fig2"](./analysis/Fig1.png "Fig2")
+!["Fig2"](./analysis/Fig2.png "Fig2")
 
-!["Fig3"](./analysis/Fig1.png "Fig3")
+!["Fig3"](./analysis/Fig3.png "Fig3")
 
-!["Fig4"](./analysis/Fig1.png "Fig4")
+!["Fig4"](./analysis/Fig4.png "Fig4")
 
-!["Fig5"](./analysis/Fig1.png "Fig5")
+!["Fig5"](./analysis/Fig5.png "Fig5")
 
-!["Fig6"](./analysis/Fig1.png "Fig6")
+!["Fig6"](./analysis/Fig6.png "Fig6")
 
-!["Fig7"](./analysis/Fig1.png "Fig7")
+!["Fig7"](./analysis/Fig7.png "Fig7")
 
 
 ## Summary
